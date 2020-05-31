@@ -1,6 +1,6 @@
 # #AcademicAntiBullying Twitter 
 
-## On November 5th 2019 we launched **#AcademicAntiBullying** hastag.
+## On November 5th 2019 we launched [**AcademicAntiBullying**](https://twitter.com/hashtag/AcademicAntiBullying) hastag.
 
 Compilation of Twitter posts.
 
