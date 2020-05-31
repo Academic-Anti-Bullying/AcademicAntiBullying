@@ -51,4 +51,9 @@ Compilation of Twitter posts.
 
 ![Description here](03.08.2020.png)
 
+## License
+
+This work is licensed under a Creative Commons Attribution 4.0 (cc-by-4.0) - please attribute to 'eLife Community Ambassadors Anti-bullying Initative 2019-2020.'
+
+
 
